@@ -7,3 +7,4 @@ this config is for conky and i tested in archlinux
 3- run conky command 
 
 ## screenshot : 
+
